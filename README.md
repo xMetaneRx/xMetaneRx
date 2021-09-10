@@ -1,16 +1,21 @@
 ### Hi there 👋
+![](https://cdn.pixabay.com/photo/2019/01/05/10/01/knowledge-3914811_960_720.jpg)
+```js
+class Person {
+    name = "Dawid"
+    age = "23"
+    nationality = "Polish"
+    hobbies = ["Music", "Computer games", "Movies"]
+}
 
-<!--
-**MetaneRuS/MetaneRuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Programming {
+    languages = ["Javascript"]
+    stylesheets =  ["CSS"]
+    learning = ["React", "Redux", "Typescript"]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Social {
+    github = "MetaneRuS"
+    codepen = "MetaneRuS"
+}
+```
