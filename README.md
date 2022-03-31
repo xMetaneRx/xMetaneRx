@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawid.</h1>
 <h3 align="center">I enjoy programming, creating Web applications, listening to music (mostly rap). I am currently developing my skills in: Javascript, React, Redux, Typescript.</h3>
 
-- 🔭 I’m currently working on [MarkdownEditor](https://github.com/MetaneRuS/MarkdownEditor)
+- 🔭 I’m currently working on [MarkdownEditor](https://github.com/xMetaneRx/MarkdownEditor)
 
 - 👨‍💻 All of my projects are available at [https://metanerus-github-io.vercel.app](https://metanerus-github-io.vercel.app)
 
@@ -16,6 +16,6 @@
 <h3 align="left">Support:</h3>
 <p></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=metanerus&show_icons=true&locale=en&layout=compact" alt="metanerus" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmetanerx&show_icons=true&locale=en&layout=compact" alt="xmetanerx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metanerus&" alt="metanerus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmetanerx&" alt="xmetanerx" /></p>
