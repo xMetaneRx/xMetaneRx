@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MarkdownEditor](https://github.com/xMetaneRx/MarkdownEditor)
 
-- 👨‍💻 All of my projects are available at [https://metanerus-github-io.vercel.app](https://metanerus-github-io.vercel.app)
+- 👨‍💻 All of my projects are available at [https://xmetanerx-github-io.vercel.app](https://xmetanerx-github-io.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
